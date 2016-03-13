@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=j7nrtZ5q3ZI'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Operation Lose That Pot Belly Annual Convention 2014. '
+datePublished: '2016-03-13T09:52:16.554Z'
+dateModified: '2016-03-13T09:52:09.554Z'
 author:
   - name: Shiko Kamiri
     url: 'https://www.youtube.com/channel/UCX-IHXCGS_6IbuE6GkfFvow'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: Operation Lose That Pot Belly Annual Convention 2014. Next event is on the 1st of August 2015.
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=j7nrtZ5q3ZI'
 title: OLTPB Annual Convention 2014
-datePublished: '2016-03-13T09:38:21.168Z'
-dateModified: '2016-03-13T09:35:13.140Z'
 sourcePath: _posts/2016-03-13-oltpb-annual-convention-2014.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 

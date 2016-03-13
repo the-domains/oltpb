@@ -4,7 +4,7 @@
         <description><![CDATA[oltpb]]></description>
         <link>https://thegrid.ai/oltpb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 09:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 09:43:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oltpb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[OLTPB Annual Convention 2014]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/oltpb/75f6da4f-7ff1-47e2-ba4d-ef2e66c74540/index.html</link>
             <guid isPermaLink="false">75f6da4f-7ff1-47e2-ba4d-ef2e66c74540</guid>
             <pubDate>Fri, 11 Mar 2016 19:29:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[oltpb title]]></title>
-            <description><![CDATA[<article><h1>oltpb title</h1><p>text above text here no pic</p></article>]]></description>
-            <link>https://thegrid.ai/oltpb/73a2ee5f-dcfc-4bc4-9883-c69b9f66850c/index.html</link>
-            <guid isPermaLink="false">73a2ee5f-dcfc-4bc4-9883-c69b9f66850c</guid>
-            <pubDate>Sun, 13 Mar 2016 08:58:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

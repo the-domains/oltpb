@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: The 2015 Annual Convention recap
-datePublished: '2016-03-14T17:52:41.231Z'
-dateModified: '2016-03-14T17:52:29.875Z'
-title: This is a post title
+datePublished: '2016-03-14T18:04:00.185Z'
+dateModified: '2016-03-14T18:00:54.572Z'
+title: Banner
 author: []
 sourcePath: _posts/2016-03-14-the-2016-annual-convention-recap.md
 published: true

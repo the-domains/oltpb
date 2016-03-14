@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: The 2015 Annual Convention recap
-datePublished: '2016-03-14T18:04:00.185Z'
-dateModified: '2016-03-14T18:00:54.572Z'
+datePublished: '2016-03-14T18:16:24.482Z'
+dateModified: '2016-03-14T18:12:34.108Z'
 title: Banner
 author: []
 sourcePath: _posts/2016-03-14-the-2016-annual-convention-recap.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-2016-annual-convention-recap/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ## The 2016 Annual Convention recap

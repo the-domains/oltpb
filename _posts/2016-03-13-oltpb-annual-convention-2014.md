@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=j7nrtZ5q3ZI'
+hasPage: true
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Operation Lose That Pot Belly Annual Convention 2014. '
-datePublished: '2016-03-14T10:06:09.229Z'
-dateModified: '2016-03-13T09:59:55.142Z'
+datePublished: '2016-03-14T18:00:18.600Z'
+dateModified: '2016-03-14T18:00:18.065Z'
 author:
   - name: Shiko Kamiri
     url: 'https://www.youtube.com/channel/UCX-IHXCGS_6IbuE6GkfFvow'
@@ -24,6 +23,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
+url: oltpb-annual-convention-2014/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

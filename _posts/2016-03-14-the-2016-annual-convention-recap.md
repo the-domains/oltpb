@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: The 2016 Annual Convention recap
-datePublished: '2016-03-14T09:59:11.996Z'
-dateModified: '2016-03-14T09:57:45.545Z'
-title: ''
+description: this is the description
+datePublished: '2016-03-14T09:59:29.503Z'
+dateModified: '2016-03-14T09:59:28.783Z'
+title: This is a post title
 author: []
 authors: []
 publisher:

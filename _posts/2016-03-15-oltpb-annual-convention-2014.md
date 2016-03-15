@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Operation Lose That Pot Belly (OLTPB)
-    url: 'https://www.youtube.com/channel/UCNkRRdtk16Zx0kbYjw-0SiA'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=_YA1_omdVNI'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - shiko
@@ -21,7 +17,13 @@ keywords:
   - encryption
   - '174'
 description: Uploaded by Operation Lose That Pot Belly (OLTPB) on 2016-03-15.
-inLanguage: en
+datePublished: '2016-03-15T18:57:29.076Z'
+dateModified: '2016-03-15T18:18:27.449Z'
+author:
+  - name: Operation Lose That Pot Belly (OLTPB)
+    url: 'https://www.youtube.com/channel/UCNkRRdtk16Zx0kbYjw-0SiA'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=_YA1_omdVNI&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=_YA1_omdVNI'
 title: OLTPB Annual Convention 2014
-datePublished: '2016-03-15T18:17:42.351Z'
-dateModified: '2016-03-15T18:16:04.350Z'
 sourcePath: _posts/2016-03-15-oltpb-annual-convention-2014.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 

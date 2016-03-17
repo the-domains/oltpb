@@ -1,4 +1,4 @@
-name: Operation Lose That Pot Belly OLTPB
+name: Operation Lose That Pot Belly
 favicon: null
 layout_spectrum: 0.25158
 typography_spectrum: 0
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
-    - '#1b1924'
-    - '#ce9785'
-    - '#403e4c'
-    - '#815853'
+    - '#ffffff'
+    - '#9dc38d'
+    - '#020202'
+    - '#0c3718'
+    - '#478a31'
   brandStrength: 0.125
   lightness: 0.625
   saturation: 0.5

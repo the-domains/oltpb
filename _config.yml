@@ -21,7 +21,7 @@ color:
     - '#020202'
     - '#0d3616'
     - '#639d42'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0
   saturation: 0
   rhythmicContrast: 0
